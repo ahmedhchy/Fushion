@@ -692,6 +692,9 @@ http://103.141.66.36/bpk-tv/10056/default/manifest.mpd
 #EXTINF:-1  group-title="Others", Saudi TV
 http://103.141.66.36/bpk-tv/10212/default/manifest.mpd
 
+#EXTINF:-1  group-title="sports", Star sports select
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
+
 #EXTINF:-1  group-title="Others", ARY QTV
 http://103.141.66.36/bpk-tv/10088/default/manifest.mpd
 #EXTINF:-1  group-title="Others", Rai Italia
